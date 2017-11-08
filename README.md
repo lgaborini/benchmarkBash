@@ -1,5 +1,5 @@
 # benchmarkBash
-Simplest benchmark sh script with minimal requirements (alpine, bc)
+Simplest benchmark sh script with minimal requirements (sh, time, bc)
 
 ### Requirements:
 * /bin/sh
