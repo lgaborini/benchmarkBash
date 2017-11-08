@@ -8,7 +8,10 @@ Simplest benchmark sh script with minimal requirements (alpine, bc)
 
 ### Dockerfile
 
-A Dockerfile is provided. The image automatically runs the benchmark, then quits.
+A Dockerfile is provided.  
+The image automatically runs the benchmark, then quits.
+
+Hosted also on [Docker Hub](https://hub.docker.com/r/lgaborini/benchmarkbash/).
 
 ## The benchmark
 
